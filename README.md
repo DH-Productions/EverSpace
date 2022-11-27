@@ -1,6 +1,6 @@
-# EverSpace
+# EverSpace Aka Fun Corner
 
-# Download EverSpace using the video below: 
+# Download EverSpace Aka Fun Corner using the video below: 
 
 https://www.youtube.com/embed/CTnGP6LpC3I
     
