@@ -2,7 +2,7 @@
 
 # Download EverSpace using the video below: 
     
-# That's it then enjoy!
+# Then enjoy!
 
 # Gameplay images: 
 
