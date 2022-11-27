@@ -4,7 +4,7 @@
     
 # Thats it then enjoy!
 
-# GamePlay images: 
+# Gameplay images: 
 
 <img width="599" alt="MicrosoftTeams-image (1)" src="https://user-images.githubusercontent.com/101946066/204130623-8b6b8734-d670-4115-895a-59f3ab6a01fd.png">
 <img width="598" alt="MicrosoftTeams-image" src="https://user-images.githubusercontent.com/101946066/204130626-509e1c7d-0b67-4e98-b57d-2247b39bdd6d.png">
